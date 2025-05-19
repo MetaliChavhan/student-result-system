@@ -21,9 +21,9 @@ Data Visualization: Charts to display statistics and trends.
 Export Options: Export results in PDF, CSV, XLSX formats.
 
 #Technologies Used
-Front-end: JavaScript, HTML5, CSS3
-Back-end: PHP
-Database: MySQL <!-- Replace with your actual database if different -->
+Front-end: JavaScript, HTML5, CSS3,
+Back-end: PHP,
+Database: SQL, <!-- Replace with your actual database if different -->
 Data Visualization: amCharts
 
 #How It Works
