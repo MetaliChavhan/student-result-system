@@ -20,8 +20,6 @@ How It Works
 Admin adds teachers, students, and subjects.
 Teachers input and manage student marks.
 Students securely log in to view their results and progress reports.
-Screenshots
-(Add screenshots here to showcase the UI and key features.)
 
 Getting Started
 Clone the repository:
