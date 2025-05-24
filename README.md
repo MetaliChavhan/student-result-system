@@ -2,12 +2,12 @@
  
 #Table of Contents
 
-Overview
-Features
-Technologies Used
-How It Works
-Getting Started
-Contribution
+Overview,
+Features,
+Technologies Used,
+How It Works,
+Getting Started,
+Contribution,
 License
 
 #Overview
